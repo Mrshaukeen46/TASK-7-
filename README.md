@@ -54,4 +54,4 @@ This task improved understanding of browser-based threats and the importance of 
 
 📅 **Task Completed:** Identify and Remove Suspicious Browser Extensions  
 👤 **Internship:** Cybersecurity Fundamentals – Elevate Labs  
-🏫 **Institution:** Albedo School of Business Education
+
